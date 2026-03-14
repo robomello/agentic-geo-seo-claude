@@ -1,6 +1,6 @@
 # Agentic GEO SEO for Claude Code
 
-Built by [Roberto de Mello](https://github.com/rdemello) / [SynAI](https://synai.ai)
+Built by [Roberto de Mello](https://github.com/robomello) / [SynAI](https://synai.ai)
 
 Auto-triggering GEO (Generative Engine Optimization) for [Claude Code](https://claude.ai/claude-code). No slash commands. No manual audits. Just write HTML and get GEO feedback automatically.
 
@@ -66,7 +66,7 @@ agentic-geo-seo-claude/
 ## Install
 
 ```bash
-git clone https://github.com/rdemello/agentic-geo-seo-claude.git
+git clone https://github.com/robomello/agentic-geo-seo-claude.git
 cd agentic-geo-seo-claude
 chmod +x install.sh && ./install.sh
 ```
